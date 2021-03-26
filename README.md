@@ -24,3 +24,7 @@
 * Car : 자동차 객체로서 이동거리(distance)와 이동전략(moveStrategy)을 가짐
 * Cars : Car를 요소로 하는 컬렉션을 멤버 변수로 가지는 일급 컬렉션
 * CarRacingApplication : View와 Model을 조율하며 실행하는 Controller
+
+> 당첨 통계   
+> \--------  
+
